@@ -184,10 +184,8 @@ Insights — Interpreted the visuals into the business insights and recommendati
 
 📁 13. Folder Structure
 
-├── Dataset/
-│   └── customer_shopping_data.csv
+├── customer_shopping_data.csv
 ├── Dashboard.xlsx
-├── Dashboard Screenshot.png
 └── README.md
 
 🔮 14. Future Improvements
