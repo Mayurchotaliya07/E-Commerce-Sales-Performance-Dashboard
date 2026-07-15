@@ -12,7 +12,7 @@ Show Image
 </div>
 Show Image
 
-<p align="center"><em>📌 <img width="1672" height="705" alt="image" src="https://github.com/user-attachments/assets/b7fa97d8-fd8d-49e3-ac51-a070cba1bef8" /></em></p>
+<p align="center"><em> <img width="1672" height="705" alt="image" src="https://github.com/user-attachments/assets/b7fa97d8-fd8d-49e3-ac51-a070cba1bef8" /></em></p>
 
 📌 1. Project Overview
 
@@ -37,7 +37,8 @@ This project demonstrates the complete analytics workflow — ingest → clean �
 
 Show Image
 
-<p align="center"><em>📌 Replace this with an annotated screenshot of the KPI cards, charts, and slicers in action</em></p>
+<p align="center"><em><img width="1386" height="92" alt="image" src="https://github.com/user-attachments/assets/7351d3f3-58b3-4402-bf26-ba6bf9bcf37e" />
+</em></p>
 <details>
 <summary>📽️ Click to view a walkthrough GIF (optional)</summary>
 Show Image
@@ -113,11 +114,9 @@ A chart comparing Cash, Credit Card, and Debit Card usage by both transaction co
 </details>
 🎚️ 7. Interactive Slicers
 
+The dashboard includes six slicers — Year, Month, Payment Method, Gender, Age Group, and Category — connected to every Pivot Table and Pivot Chart via shared Pivot Cache connections. Clicking any slicer button instantly filters every visual and KPI card simultaneously, letting a user drill from "all-time revenue" down to, for example, "Female customers aged 20–29 who paid by Credit Card for Clothing in March 2022" in a few clicks — no formulas need to be touched.
 
 <img width="287" height="668" alt="image" src="https://github.com/user-attachments/assets/e84d7ada-4b55-4d2c-96ce-e61f916be818" />
-
-
-The dashboard includes six slicers — Year, Month, Payment Method, Gender, Age Group, and Category — connected to every Pivot Table and Pivot Chart via shared Pivot Cache connections. Clicking any slicer button instantly filters every visual and KPI card simultaneously, letting a user drill from "all-time revenue" down to, for example, "Female customers aged 20–29 who paid by Credit Card for Clothing in March 2022" in a few clicks — no formulas need to be touched.
 
 ❓ 8. Business Questions Solved
 
