@@ -36,7 +36,7 @@ This project demonstrates the complete analytics workflow — **ingest → clean
 
 ## 🖼️ 3. Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard Preview.png)
 <p align="center"><em>📌 Replace this with an annotated screenshot of the KPI cards, charts, and slicers in action</em></p>
 
 <details>
